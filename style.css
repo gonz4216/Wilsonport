@@ -303,11 +303,33 @@ color:gray;
 }
 
 .colls{
-  box-shadow: 5px 15px 15px 3px #616161 ;
-  width: 200px;
+  box-shadow: 5px 15px 15px 3px #bdbdbd77 ;
+  width: 260px;
   display: flex;
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  padding: 20px 0;
+  padding: 30px 0;
+  margin: 0 auto;
+}
+
+.collls-head{
+    font-size: 40px;
+   padding: 15px 0;
+}
+.colls-para{
+    font-size: 20px;
+    color: #979797;
+}
+
+.our-stats__container{
+    display: flex;
+    padding-top: 50px;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 80px;
+}
+
+.m{
+    margin-top: 80px;
 }
